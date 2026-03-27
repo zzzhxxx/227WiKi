@@ -6,3 +6,7 @@ __pycache__/
 .pdm-python
 .envrc
 .direnv/
+.DS_Store
+.opencode/
+.claude/
+.agent/
