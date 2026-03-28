@@ -67,6 +67,44 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
+## 首页头像映射维护
+
+首页 Members 与首页 Blog 卡片的头像映射统一由 `docs/_static/data/members.json` 管理。
+
+- 文件结构：
+
+```json
+{
+  "members": [
+    {
+      "slug": "sally",
+      "name": "天城サリー",
+      "status": "active",
+      "aliases": ["天城 サリー"]
+    }
+  ]
+}
+```
+
+- 字段说明：
+
+- `slug`：成员唯一标识。
+- `name`：显示名（用于名字匹配）。
+- `status`：`active` / `third` / `graduated`。
+- `aliases`：可选，作者名存在变体时用于匹配。
+- `avatar`：可选，设置后将覆盖默认 URL 规则。
+
+- 默认 URL 规则：
+
+- `active`、`third`：`https://res.227wiki.eu.org/photo/avatar/16th/{slug}.jpg`
+- `graduated`：`https://nananiji.zzzhxxx.top/assets/photo/avatar/{slug}.jpg!avatar`
+
+- 更新流程：
+
+1. 修改 `docs/_static/data/members.json`。
+2. 提交并部署站点。
+3. 前端在会话内会缓存映射；新会话会自动读取最新映射。
+
 
 ## Sponsor
 
