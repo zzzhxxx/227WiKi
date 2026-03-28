@@ -8,6 +8,22 @@ template: comment.html
 ???+ quote "ひとこと"
     椎名桜月です！ハムスターを飼ってます。これから沢山成長していきたいです。 よろしくお願いします！
 !!! general inline end "椎名桜月"
+    === "十六单"
+
+        ![十六单公式照](https://res.227wiki.eu.org/photo/satsuki/16th.webp){ loading=lazy }
+
+    === "三专"
+
+        ![三专公式照](https://res.227wiki.eu.org/photo/satsuki/3rd_album.webp){ loading=lazy }
+
+    === "十五单"
+
+        ![十五单公式照](https://res.227wiki.eu.org/photo/satsuki/15th.webp){ loading=lazy }
+
+    === "十四单"
+
+        ![十四单公式照](https://res.227wiki.eu.org/photo/satsuki/14th.webp){ loading=lazy }
+
     === "十三单"
 
         ![十三单公式照](https://res.227wiki.eu.org/photo/satsuki/13th.jpg){ loading=lazy }
