@@ -297,7 +297,7 @@ extra_css:
   - "_static/css/extra.css"
   - "_static/css/glightbox.min.css"
   - stylesheets/extra.css
-  - stylesheets/home.css
+  - https://nananiji.zzzhxxx.top/css/home.css
   - https://nananiji.zzzhxxx.top/css/jquery.fancybox.min.css
   - https://nananiji.zzzhxxx.top/css/APlayer.min.css
 extra_javascript:
@@ -355,7 +355,7 @@ extra:
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
 
-copyright: Copyright &copy; 2021 - 2025 22/7 WiKi
+copyright: Copyright &copy; 2021 - 2026 22/7 WiKi
 
 watch:
   - overrides
