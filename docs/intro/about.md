@@ -4,7 +4,7 @@ title: 简介 - 22/7
 
 # 关于22/7
 
-![アーティスト写真](https://nanabunnonijyuuni.com/images/4/35c/7cf86be97e2a080a50c5ef5dbd206.jpg){ loading= lazy} 
+![アーティスト写真](https://nanabunnonijyuuni-mobile.com/images/4/7bd/d0fa902e619b66b124a5b5772ab78.jpg){ loading= lazy} 
 
 ## 简介
 

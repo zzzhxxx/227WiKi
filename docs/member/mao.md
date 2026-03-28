@@ -15,7 +15,7 @@ template: comment.html
 
     === "十五单"
 
-        ![十五单公式照](https://res.227wiki.eu.org/photo/mao    /15th.webp){ loading=lazy }
+        ![十五单公式照](https://res.227wiki.eu.org/photo/mao/15th.webp){ loading=lazy }
 
     === "十四单"
 

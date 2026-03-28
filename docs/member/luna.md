@@ -5,6 +5,14 @@ template: comment.html
 ???+ quote "ひとこと"
     お月様のように皆さんを照らせる存在でありたいです
 !!! general inline end "四条月"
+    === "十五单"
+
+        ![十五单公式照](https://res.227wiki.eu.org/photo/luna/15th.webp){ loading=lazy }
+
+    === "十四单"
+
+        ![十四单公式照](https://res.227wiki.eu.org/photo/luna/14th.webp){ loading=lazy }
+
     === "十三单"
 
         ![十三单公式照](https://res.227wiki.eu.org/photo/luna/13th.jpg){ loading=lazy }

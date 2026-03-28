@@ -7,11 +7,11 @@ template: comment.html
 
     === "十六单"
     
-            ![十六单公式照](https://res.227wiki.eu.org/photo/mirei/16th.jpg){ loading=lazy }
+        ![十六单公式照](https://res.227wiki.eu.org/photo/mirei/16th.webp){ loading=lazy }
 
     === "初次亮相"
     
-            ![初次亮相公式照](https://res.227wiki.eu.org/photo/mirei/debut.jpg){ loading=lazy }
+        ![初次亮相公式照](https://res.227wiki.eu.org/photo/mirei/debut.webp){ loading=lazy }
 
     --------
 
