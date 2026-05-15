@@ -5,7 +5,10 @@ template: comment.html
 ???+ quote "ひとこと"
     分からない事ばかりの未熟者ですが全力で頑張ります。よろしくお願い致します。
     
-!!! general inline end "雨夜音"
+!!! general inline end "蒼乃音"
+    === "LEAP!Project时期"
+
+        ![LEAP!Project时期照片](https://res.227wiki.eu.org/photo/oto/oto_leap.webp){ loading=lazy }
     === "十一单"
 
         ![十一单公式照](https://nananiji.zzzhxxx.top/assets/photo/oto/11th.jpg!compress){ loading=lazy }
@@ -24,7 +27,11 @@ template: comment.html
 
     --------
 
-    <b>姓名</b>   雨夜音
+    <b>姓名</b>   蒼乃音
+
+    --------
+
+    <b>22/7时期艺名</b>   雨夜音
 
     --------
 
@@ -61,6 +68,9 @@ template: comment.html
 
 - 8月25日，因为难以兼顾偶像事业与学业，加上母亲患病，决定在八月底停止22/7的活动，9月7日关停博客和sns。[^1]
 
+### 2026 
+
+- 2月23日，在推特上宣布通过了声优偶像组合LEAP!Project的最终甄选，艺名为蒼乃音，是主要组合LEAP中的一员
 ## 相关
 
 ## FREE TALK

@@ -27,7 +27,7 @@ template: comment.html
 
     --------
 
-    <b>身高</b> 150cm
+    <b>身高</b> 149.2cm[^1]
 
     --------
 
@@ -59,7 +59,12 @@ template: comment.html
 - 擅长“一人OO”——一人拉面、一人回转寿司、一人电影院、一人外出
 - 喜欢撒娇，天冷时会把手伸进実咲的衣服里
 - 想和前辈りの一起做成对的钥匙扣
+- 喜欢BanG Dream!企划的Roselia和MyGO!!!!! ~~我也喜欢~~
+- Roselia里的推是白金燐子，MyGO!!!!!里的推是千早爱音
+- 会玩中二节奏
 
 ## Solo PV
 
 <iframe src="https://player.bilibili.com/player.html?aid=115734587906991&bvid=BV1rDq5BNEA5&cid=25931813469&page=1&autoplay=0" autoplay="0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="70%" height="504"> </iframe>
+
+[^1]: 22/7 3期生 定期公演 「ナナニジライブ2026」5月公演
